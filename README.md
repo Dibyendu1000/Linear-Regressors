@@ -1,5 +1,5 @@
 # Regressors
-Regression algorithms in machine learning
+Linear Regression algorithms in machine learning
 
 Dependencies:
 matplotlib, numpy
